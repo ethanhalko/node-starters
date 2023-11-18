@@ -1,5 +1,5 @@
 # Scaffolding new Node apps is an unrelenting slog
-# Saving this as a jumping off point for future projects
+## Saving this as a jumping off point for future projects
 
 ## Usage
 1. Clone this repo
